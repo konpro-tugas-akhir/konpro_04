@@ -6,7 +6,7 @@ def option():
 	print("2.biner ke desimal")
 	print("3.Desimal ke Hexa")
 	print("4.Desimal ke Octal")
-	print("5.Keluar Program")
+	print("5.Keluar dari Program")
 	pilihan = int(input("masukan pilihan anda:"))
 	return pilihan
 
