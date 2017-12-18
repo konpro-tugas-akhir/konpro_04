@@ -9,7 +9,7 @@ def option():
 	print("5.Keluar dari Program")
 	pilihan = int(input("masukan pilihan anda:"))
 	return pilihan
-
+#====
 pilihan = True
 while(pilihan<5):
 	pilihan = option()
